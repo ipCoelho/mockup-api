@@ -8,3 +8,7 @@ Simple API for leaning how to make the interaction between the frontend and the 
 - *MongoDB*
 
 -----------------------------------------------------------------------------------------
+
+#### Commands:
+- yarn : install the dependencies.
+- yarn start : start the server.
